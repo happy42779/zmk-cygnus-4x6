@@ -7,11 +7,6 @@
     combos {
         compatible = "zmk,combos";
 
-        bluetooth {
-            bindings = <&mo 3>;
-            key-positions = <41 36>;
-        };
-
         bt2 {
             bindings = <&mo 3>;
             key-positions = <48 53>;
