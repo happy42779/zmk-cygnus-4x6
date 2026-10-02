@@ -1,16 +1,10 @@
-#if SHIELD_CYGNUS_LEFT
-if SHIELD_CYGNUS_RIGHT
+if SHIELD_CYGNUS_LEFT
 
 config ZMK_KEYBOARD_NAME
     default "Cygnus"
 
-# for test
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
-
-# for test
-config ZMK_STUDIO
-  default n
 
 endif
 
