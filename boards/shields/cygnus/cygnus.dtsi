@@ -107,5 +107,5 @@
 
 &cygnus_4_6 {
   transform = <&default_transform>;
-  kscan = <&kscan0>
+  kscan = <&kscan0>;
 };
